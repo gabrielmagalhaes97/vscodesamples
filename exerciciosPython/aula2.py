@@ -11,7 +11,7 @@ telefone = input("Escreva seu telefone: ")
 
 print('\nNome:', nome)
 print('CPF:', cpf)
-print('EndereÃ§o:', endereco)
+print('Endereço:', endereco)
 print('Idade:', idade, 'anos')
 print('Altura:', altura, 'metros')
 print('Telefone:', telefone)
